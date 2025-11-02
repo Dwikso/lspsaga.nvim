@@ -9,6 +9,7 @@ local function hi_define()
     SagaNormal = { link = 'NormalFloat' },
     SagaToggle = { link = 'Comment' },
     SagaBeacon = { bg = '#c43963' },
+    SagaFolder = { bg = '#c43963' },
     SagaVirtLine = { fg = '#444a4d' },
     SagaSpinnerTitle = { link = 'Statement' },
     SagaSpinner = { link = 'Statement' },
